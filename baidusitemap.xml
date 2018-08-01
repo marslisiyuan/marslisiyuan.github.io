@@ -6,6 +6,27 @@
     
     
   <url>
+    <loc>https://marslisiyuan.github.io/2018/01/09/DS/</loc>
+    <lastmod>2018-08-01T09:22:30.340Z</lastmod>
+    <data>
+        <display>
+        <title>数据结构与算法系列之一：八大排序综述</title>
+        <pubTime>2018-01-08T16:00:00.000Z</pubTime>
+        
+        <tag>排序</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据结构与算法" url="https://marslisiyuan.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>https://marslisiyuan.github.io/2018/01/10/HEXO/</loc>
     <lastmod>2018-08-01T09:22:30.340Z</lastmod>
     <data>
@@ -32,14 +53,16 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2018/01/09/DS/</loc>
-    <lastmod>2018-08-01T09:22:30.340Z</lastmod>
+    <loc>https://marslisiyuan.github.io/2018/01/06/DS/</loc>
+    <lastmod>2018-08-01T09:22:30.339Z</lastmod>
     <data>
         <display>
-        <title>数据结构与算法系列之一：八大排序综述</title>
-        <pubTime>2018-01-08T16:00:00.000Z</pubTime>
+        <title>数据结构与算法系列之一：八大排序之快速排序</title>
+        <pubTime>2018-01-05T16:00:00.000Z</pubTime>
         
         <tag>排序</tag>
+         
+        <tag>快速排序</tag>
          
          
            
@@ -51,6 +74,27 @@
     </url>
 
     
+  <url>
+    <loc>https://marslisiyuan.github.io/2018/01/04/DS/</loc>
+    <lastmod>2018-08-01T09:22:30.339Z</lastmod>
+    <data>
+        <display>
+        <title>数据结构与算法系列之一：八大排序之堆排序</title>
+        <pubTime>2018-01-03T16:00:00.000Z</pubTime>
+        
+        <tag>排序</tag>
+         
+        <tag>堆排序</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据结构与算法" url="https://marslisiyuan.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>https://marslisiyuan.github.io/2018/01/07/DS/</loc>
@@ -97,28 +141,6 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2018/01/04/DS/</loc>
-    <lastmod>2018-08-01T09:22:30.339Z</lastmod>
-    <data>
-        <display>
-        <title>数据结构与算法系列之一：八大排序之堆排序</title>
-        <pubTime>2018-01-03T16:00:00.000Z</pubTime>
-        
-        <tag>排序</tag>
-         
-        <tag>堆排序</tag>
-         
-         
-           
-             
-              <breadCrumb title="数据结构与算法" url="https://marslisiyuan.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://marslisiyuan.github.io/2018/01/08/DS/</loc>
     <lastmod>2018-08-01T09:22:30.339Z</lastmod>
     <data>
@@ -141,60 +163,16 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2018/01/06/DS/</loc>
-    <lastmod>2018-08-01T09:22:30.339Z</lastmod>
-    <data>
-        <display>
-        <title>数据结构与算法系列之一：八大排序之快速排序</title>
-        <pubTime>2018-01-05T16:00:00.000Z</pubTime>
-        
-        <tag>排序</tag>
-         
-        <tag>快速排序</tag>
-         
-         
-           
-             
-              <breadCrumb title="数据结构与算法" url="https://marslisiyuan.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marslisiyuan.github.io/2018/01/02/DS/</loc>
+    <loc>https://marslisiyuan.github.io/2018/01/03/DS/</loc>
     <lastmod>2018-08-01T09:22:30.338Z</lastmod>
     <data>
         <display>
-        <title>数据结构与算法系列之一：八大排序之希尔排序</title>
-        <pubTime>2018-01-01T16:00:00.000Z</pubTime>
+        <title>数据结构与算法系列之一：八大排序之选择排序</title>
+        <pubTime>2018-01-02T16:00:00.000Z</pubTime>
         
         <tag>排序</tag>
          
-        <tag>希尔排序</tag>
-         
-         
-           
-             
-              <breadCrumb title="数据结构与算法" url="https://marslisiyuan.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marslisiyuan.github.io/2018/01/01/DS/</loc>
-    <lastmod>2018-08-01T09:22:30.338Z</lastmod>
-    <data>
-        <display>
-        <title>数据结构与算法系列之一：八大排序之插入排序</title>
-        <pubTime>2017-12-31T16:00:00.000Z</pubTime>
-        
-        <tag>排序</tag>
-         
-        <tag>插入排序</tag>
+        <tag>选择排序</tag>
          
          
            
@@ -279,16 +257,16 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2018/01/03/DS/</loc>
+    <loc>https://marslisiyuan.github.io/2018/01/02/DS/</loc>
     <lastmod>2018-08-01T09:22:30.338Z</lastmod>
     <data>
         <display>
-        <title>数据结构与算法系列之一：八大排序之选择排序</title>
-        <pubTime>2018-01-02T16:00:00.000Z</pubTime>
+        <title>数据结构与算法系列之一：八大排序之希尔排序</title>
+        <pubTime>2018-01-01T16:00:00.000Z</pubTime>
         
         <tag>排序</tag>
          
-        <tag>选择排序</tag>
+        <tag>希尔排序</tag>
          
          
            
@@ -301,23 +279,21 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-69/</loc>
-    <lastmod>2018-08-01T09:22:30.337Z</lastmod>
+    <loc>https://marslisiyuan.github.io/2018/01/01/DS/</loc>
+    <lastmod>2018-08-01T09:22:30.338Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（综合）：树中两个结点的最低公共祖先</title>
-        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
+        <title>数据结构与算法系列之一：八大排序之插入排序</title>
+        <pubTime>2017-12-31T16:00:00.000Z</pubTime>
         
-        <tag>AtOffer</tag>
+        <tag>排序</tag>
          
-        <tag>c++</tag>
-         
-        <tag>综合</tag>
+        <tag>插入排序</tag>
          
          
            
              
-              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
+              <breadCrumb title="数据结构与算法" url="https://marslisiyuan.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
           
         </display>
     </data>
@@ -337,6 +313,30 @@
         <tag>c++</tag>
          
         <tag>综合</tag>
+         
+         
+           
+             
+              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-67/</loc>
+    <lastmod>2018-08-01T09:22:30.337Z</lastmod>
+    <data>
+        <display>
+        <title>《剑指offer》刷题笔记（字符串）：字符流中第一个不重复的字符</title>
+        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
+        
+        <tag>AtOffer</tag>
+         
+        <tag>c++</tag>
+         
+        <tag>字符串</tag>
          
          
            
@@ -421,18 +421,18 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-67/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-69/</loc>
     <lastmod>2018-08-01T09:22:30.337Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（字符串）：字符流中第一个不重复的字符</title>
+        <title>《剑指offer》刷题笔记（综合）：树中两个结点的最低公共祖先</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
          
         <tag>c++</tag>
          
-        <tag>字符串</tag>
+        <tag>综合</tag>
          
          
            
@@ -445,11 +445,11 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-63/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-62/</loc>
     <lastmod>2018-08-01T09:22:30.336Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（知识迁移能力）：左旋转字符串</title>
+        <title>《剑指offer》刷题笔记（知识迁移能力）：数组中只出现一次的数字</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
@@ -493,30 +493,6 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-6/</loc>
-    <lastmod>2018-08-01T09:22:30.336Z</lastmod>
-    <data>
-        <display>
-        <title>《剑指offer》刷题笔记（代码的鲁棒性）：链表中倒数第k个结点</title>
-        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
-        
-        <tag>AtOffer</tag>
-         
-        <tag>c++</tag>
-         
-        <tag>代码的鲁棒性</tag>
-         
-         
-           
-             
-              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://marslisiyuan.github.io/2017/12/01/offer-60/</loc>
     <lastmod>2018-08-01T09:22:30.336Z</lastmod>
     <data>
@@ -529,6 +505,30 @@
         <tag>c++</tag>
          
         <tag>知识迁移能力</tag>
+         
+         
+           
+             
+              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-6/</loc>
+    <lastmod>2018-08-01T09:22:30.336Z</lastmod>
+    <data>
+        <display>
+        <title>《剑指offer》刷题笔记（代码的鲁棒性）：链表中倒数第k个结点</title>
+        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
+        
+        <tag>AtOffer</tag>
+         
+        <tag>c++</tag>
+         
+        <tag>代码的鲁棒性</tag>
          
          
            
@@ -565,11 +565,11 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-62/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-63/</loc>
     <lastmod>2018-08-01T09:22:30.336Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（知识迁移能力）：数组中只出现一次的数字</title>
+        <title>《剑指offer》刷题笔记（知识迁移能力）：左旋转字符串</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
@@ -805,18 +805,18 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-49/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-5/</loc>
     <lastmod>2018-08-01T09:22:30.333Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（树）：重建二叉树</title>
+        <title>《剑指offer》刷题笔记（代码的鲁棒性）：合并两个排序的链表</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
          
         <tag>c++</tag>
          
-        <tag>树</tag>
+        <tag>代码的鲁棒性</tag>
          
          
            
@@ -829,11 +829,11 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-48/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-49/</loc>
     <lastmod>2018-08-01T09:22:30.333Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（树）：序列化二叉树</title>
+        <title>《剑指offer》刷题笔记（树）：重建二叉树</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
@@ -925,35 +925,11 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-5/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-48/</loc>
     <lastmod>2018-08-01T09:22:30.333Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（代码的鲁棒性）：合并两个排序的链表</title>
-        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
-        
-        <tag>AtOffer</tag>
-         
-        <tag>c++</tag>
-         
-        <tag>代码的鲁棒性</tag>
-         
-         
-           
-             
-              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-44/</loc>
-    <lastmod>2018-08-01T09:22:30.332Z</lastmod>
-    <data>
-        <display>
-        <title>《剑指offer》刷题笔记（树）：对称的二叉树</title>
+        <title>《剑指offer》刷题笔记（树）：序列化二叉树</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
@@ -973,11 +949,11 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-43/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-44/</loc>
     <lastmod>2018-08-01T09:22:30.332Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（树）：把二叉树打印成多行</title>
+        <title>《剑指offer》刷题笔记（树）：对称的二叉树</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
@@ -1093,11 +1069,59 @@
 
     
   <url>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-43/</loc>
+    <lastmod>2018-08-01T09:22:30.332Z</lastmod>
+    <data>
+        <display>
+        <title>《剑指offer》刷题笔记（树）：把二叉树打印成多行</title>
+        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
+        
+        <tag>AtOffer</tag>
+         
+        <tag>c++</tag>
+         
+        <tag>树</tag>
+         
+         
+           
+             
+              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://marslisiyuan.github.io/2017/12/01/offer-39/</loc>
     <lastmod>2018-08-01T09:22:30.331Z</lastmod>
     <data>
         <display>
         <title>《剑指offer》刷题笔记（时间效率）：数组中出现次数超过一半的数字</title>
+        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
+        
+        <tag>AtOffer</tag>
+         
+        <tag>c++</tag>
+         
+        <tag>时间效率</tag>
+         
+         
+           
+             
+              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-38/</loc>
+    <lastmod>2018-08-01T09:22:30.331Z</lastmod>
+    <data>
+        <display>
+        <title>《剑指offer》刷题笔记（时间效率）：连续子数组的最大和</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
@@ -1213,42 +1237,18 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-38/</loc>
-    <lastmod>2018-08-01T09:22:30.331Z</lastmod>
-    <data>
-        <display>
-        <title>《剑指offer》刷题笔记（时间效率）：连续子数组的最大和</title>
-        <pubTime>2017-11-30T16:00:00.000Z</pubTime>
-        
-        <tag>AtOffer</tag>
-         
-        <tag>c++</tag>
-         
-        <tag>时间效率</tag>
-         
-         
-           
-             
-              <breadCrumb title="AtOffer" url="https://marslisiyuan.github.io/categories/AtOffer/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-3/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-33/</loc>
     <lastmod>2018-08-01T09:22:30.330Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（抽象建模能力）：圆圈中最后剩下的数</title>
+        <title>《剑指offer》刷题笔记（时间空间效率的平衡）：丑数</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
          
         <tag>c++</tag>
          
-        <tag>代码的鲁棒性</tag>
+        <tag>时间空间效率的平衡</tag>
          
          
            
@@ -1357,18 +1357,18 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/12/01/offer-33/</loc>
+    <loc>https://marslisiyuan.github.io/2017/12/01/offer-3/</loc>
     <lastmod>2018-08-01T09:22:30.330Z</lastmod>
     <data>
         <display>
-        <title>《剑指offer》刷题笔记（时间空间效率的平衡）：丑数</title>
+        <title>《剑指offer》刷题笔记（抽象建模能力）：圆圈中最后剩下的数</title>
         <pubTime>2017-11-30T16:00:00.000Z</pubTime>
         
         <tag>AtOffer</tag>
          
         <tag>c++</tag>
          
-        <tag>时间空间效率的平衡</tag>
+        <tag>代码的鲁棒性</tag>
          
          
            
@@ -2339,18 +2339,16 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/tx-9/</loc>
+    <loc>https://marslisiyuan.github.io/2017/10/01/tx-8/</loc>
     <lastmod>2018-08-01T09:22:30.321Z</lastmod>
     <data>
         <display>
-        <title>NVIDIA Jetson TX1 系列开发教程之九：USB摄像头MJPEG格式图像采集</title>
+        <title>NVIDIA Jetson TX1 系列开发教程之八：Qt安装与配置</title>
         <pubTime>2017-09-30T16:00:00.000Z</pubTime>
         
         <tag>TX1</tag>
          
-        <tag>USB摄像头</tag>
-         
-        <tag>MJPEG</tag>
+        <tag>Qt</tag>
          
          
            
@@ -2409,16 +2407,18 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/tx-8/</loc>
+    <loc>https://marslisiyuan.github.io/2017/10/01/tx-9/</loc>
     <lastmod>2018-08-01T09:22:30.321Z</lastmod>
     <data>
         <display>
-        <title>NVIDIA Jetson TX1 系列开发教程之八：Qt安装与配置</title>
+        <title>NVIDIA Jetson TX1 系列开发教程之九：USB摄像头MJPEG格式图像采集</title>
         <pubTime>2017-09-30T16:00:00.000Z</pubTime>
         
         <tag>TX1</tag>
          
-        <tag>Qt</tag>
+        <tag>USB摄像头</tag>
+         
+        <tag>MJPEG</tag>
          
          
            
@@ -2519,50 +2519,6 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/tx-2/</loc>
-    <lastmod>2018-08-01T09:22:30.319Z</lastmod>
-    <data>
-        <display>
-        <title>NVIDIA Jetson TX1 系列开发教程之二：刷机与开发前准备</title>
-        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
-        
-        <tag>TX1</tag>
-         
-        <tag>刷机</tag>
-         
-         
-           
-             
-              <breadCrumb title="TX1" url="https://marslisiyuan.github.io/categories/TX1/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/tx-14/</loc>
-    <lastmod>2018-08-01T09:22:30.319Z</lastmod>
-    <data>
-        <display>
-        <title>NVIDIA Jetson TX1 系列开发教程之十四：YOLO安装与优化加速</title>
-        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
-        
-        <tag>TX1</tag>
-         
-        <tag>YOLO</tag>
-         
-         
-           
-             
-              <breadCrumb title="TX1" url="https://marslisiyuan.github.io/categories/TX1/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://marslisiyuan.github.io/2017/10/01/tx-13/</loc>
     <lastmod>2018-08-01T09:22:30.319Z</lastmod>
     <data>
@@ -2573,6 +2529,28 @@
         <tag>TX1</tag>
          
         <tag>OpenCV</tag>
+         
+         
+           
+             
+              <breadCrumb title="TX1" url="https://marslisiyuan.github.io/categories/TX1/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marslisiyuan.github.io/2017/10/01/tx-2/</loc>
+    <lastmod>2018-08-01T09:22:30.319Z</lastmod>
+    <data>
+        <display>
+        <title>NVIDIA Jetson TX1 系列开发教程之二：刷机与开发前准备</title>
+        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
+        
+        <tag>TX1</tag>
+         
+        <tag>刷机</tag>
          
          
            
@@ -2609,16 +2587,16 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/tx-11/</loc>
-    <lastmod>2018-08-01T09:22:30.318Z</lastmod>
+    <loc>https://marslisiyuan.github.io/2017/10/01/tx-14/</loc>
+    <lastmod>2018-08-01T09:22:30.319Z</lastmod>
     <data>
         <display>
-        <title>NVIDIA Jetson TX1 系列开发教程之十一：TCP IP文件传输</title>
+        <title>NVIDIA Jetson TX1 系列开发教程之十四：YOLO安装与优化加速</title>
         <pubTime>2017-09-30T16:00:00.000Z</pubTime>
         
         <tag>TX1</tag>
          
-        <tag>TCP IP</tag>
+        <tag>YOLO</tag>
          
          
            
@@ -2631,14 +2609,18 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/tx-1/</loc>
+    <loc>https://marslisiyuan.github.io/2017/10/01/tx-10/</loc>
     <lastmod>2018-08-01T09:22:30.318Z</lastmod>
     <data>
         <display>
-        <title>NVIDIA Jetson TX1 系列开发教程之一：开箱测试</title>
+        <title>NVIDIA Jetson TX1 系列开发教程之十：V4L2+OpenCV2.4.13实现预览、拍照功能</title>
         <pubTime>2017-09-30T16:00:00.000Z</pubTime>
         
         <tag>TX1</tag>
+         
+        <tag>V4L2</tag>
+         
+        <tag>OpenCV</tag>
          
          
            
@@ -2695,18 +2677,36 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/tx-10/</loc>
+    <loc>https://marslisiyuan.github.io/2017/10/01/tx-1/</loc>
     <lastmod>2018-08-01T09:22:30.318Z</lastmod>
     <data>
         <display>
-        <title>NVIDIA Jetson TX1 系列开发教程之十：V4L2+OpenCV2.4.13实现预览、拍照功能</title>
+        <title>NVIDIA Jetson TX1 系列开发教程之一：开箱测试</title>
         <pubTime>2017-09-30T16:00:00.000Z</pubTime>
         
         <tag>TX1</tag>
          
-        <tag>V4L2</tag>
          
-        <tag>OpenCV</tag>
+           
+             
+              <breadCrumb title="TX1" url="https://marslisiyuan.github.io/categories/TX1/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marslisiyuan.github.io/2017/10/01/tx-11/</loc>
+    <lastmod>2018-08-01T09:22:30.318Z</lastmod>
+    <data>
+        <display>
+        <title>NVIDIA Jetson TX1 系列开发教程之十一：TCP IP文件传输</title>
+        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
+        
+        <tag>TX1</tag>
+         
+        <tag>TCP IP</tag>
          
          
            
@@ -2741,28 +2741,6 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/py-5/</loc>
-    <lastmod>2018-08-01T09:22:30.317Z</lastmod>
-    <data>
-        <display>
-        <title>Python3：string中的split()函数</title>
-        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
-        
-        <tag>Python3</tag>
-         
-        <tag>split</tag>
-         
-         
-           
-             
-              <breadCrumb title="Python3" url="https://marslisiyuan.github.io/categories/Python3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://marslisiyuan.github.io/2017/10/01/py-3/</loc>
     <lastmod>2018-08-01T09:22:30.317Z</lastmod>
     <data>
@@ -2773,28 +2751,6 @@
         <tag>Python3</tag>
          
         <tag>itemgetter</tag>
-         
-         
-           
-             
-              <breadCrumb title="Python3" url="https://marslisiyuan.github.io/categories/Python3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/py-1/</loc>
-    <lastmod>2018-08-01T09:22:30.317Z</lastmod>
-    <data>
-        <display>
-        <title>Python3：input()函数</title>
-        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
-        
-        <tag>Python3</tag>
-         
-        <tag>input</tag>
          
          
            
@@ -2853,21 +2809,43 @@
 
     
   <url>
-    <loc>https://marslisiyuan.github.io/2017/10/01/bing-2/</loc>
-    <lastmod>2018-08-01T09:22:30.316Z</lastmod>
+    <loc>https://marslisiyuan.github.io/2017/10/01/py-1/</loc>
+    <lastmod>2018-08-01T09:22:30.317Z</lastmod>
     <data>
         <display>
-        <title>CVPR2014 Objectness BING 源码详解</title>
+        <title>Python3：input()函数</title>
         <pubTime>2017-09-30T16:00:00.000Z</pubTime>
         
-        <tag>BING</tag>
+        <tag>Python3</tag>
          
-        <tag>源码</tag>
+        <tag>input</tag>
          
          
            
              
-              <breadCrumb title="BING" url="https://marslisiyuan.github.io/categories/BING/"/>
+              <breadCrumb title="Python3" url="https://marslisiyuan.github.io/categories/Python3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marslisiyuan.github.io/2017/10/01/py-5/</loc>
+    <lastmod>2018-08-01T09:22:30.317Z</lastmod>
+    <data>
+        <display>
+        <title>Python3：string中的split()函数</title>
+        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
+        
+        <tag>Python3</tag>
+         
+        <tag>split</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python3" url="https://marslisiyuan.github.io/categories/Python3/"/>
           
         </display>
     </data>
@@ -2883,6 +2861,28 @@
         <pubTime>2017-09-30T16:00:00.000Z</pubTime>
         
         <tag>BING</tag>
+         
+         
+           
+             
+              <breadCrumb title="BING" url="https://marslisiyuan.github.io/categories/BING/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marslisiyuan.github.io/2017/10/01/bing-2/</loc>
+    <lastmod>2018-08-01T09:22:30.316Z</lastmod>
+    <data>
+        <display>
+        <title>CVPR2014 Objectness BING 源码详解</title>
+        <pubTime>2017-09-30T16:00:00.000Z</pubTime>
+        
+        <tag>BING</tag>
+         
+        <tag>源码</tag>
          
          
            
